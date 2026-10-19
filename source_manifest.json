@@ -1,0 +1,149 @@
+[
+  {
+    "path": ".gitignore",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "05afbe8fea6e985b53f89f13c699f012d0f18a3a57bcbfb81f72639988ebe554",
+    "modified": null
+  },
+  {
+    "path": "dataloader/__init__.py",
+    "source_path": "dataloader/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "release_sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "modified": true
+  },
+  {
+    "path": "dataloader/data_aug.py",
+    "source_path": "dataloader/data_aug.py",
+    "source_sha256": "6fd175fd480eeab69a3ad0913af54cf342bd7f07d9f70072b659e103588a5ca1",
+    "release_sha256": "4ff53b79851b82eec7f6dfa08ef03eb39b467565415b1090229ff0ea95778fab",
+    "modified": true
+  },
+  {
+    "path": "dataloader/ProstateDataset.py",
+    "source_path": "dataloader/ProstateDataset.py",
+    "source_sha256": "9cb29902dd46457780cec145bba0177408bd266e8b3b7d10470f5fcb2f0eaf5d",
+    "release_sha256": "94a83660730dc4d98c7de8439dc6830ebced8ee5514b5cf5c7bd6ced1a07c0b2",
+    "modified": true
+  },
+  {
+    "path": "evaluation.py",
+    "source_path": "test2.py",
+    "source_sha256": "7e957bf68a25bc37b620a3ae46c3b4f44218ad1b28c385c1166ec117d1792560",
+    "release_sha256": "5d06546b294a41fbebced736e56639859525a96ebf7a5068ae130a39155748ea",
+    "modified": true
+  },
+  {
+    "path": "networks/__init__.py",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "f875e5045522601490485c6b55076f7c6c62e324a08d266d2fa6bef5422e389e",
+    "modified": null
+  },
+  {
+    "path": "networks/model.py",
+    "source_path": "networks2/model.py",
+    "source_sha256": "b2a6861d615382e6048140b2c8361446a33abe29ff3f10c3f81885b419fa6f05",
+    "release_sha256": "20d103f8e68611ad6b35a4c433f70986b468b831578873311cfdebf04fc98ece",
+    "modified": true
+  },
+  {
+    "path": "README.md",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "fe92cb36eb8e4426d6e0c6486174b000c929c268c82f15f9b98c2c856d60aef6",
+    "modified": null
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "a8098ed63e7364ab408e38b0e101696343de7bf11a31c98eae725b43f583c587",
+    "modified": null
+  },
+  {
+    "path": "requirements.txt",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "9a3e9849d756a627f1928d353c60a288d0ec05a7878fd03f0a60e4af99df5255",
+    "modified": null
+  },
+  {
+    "path": "splits/annotated_example.txt",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "4f107c194599a618c89a3b8848f0cd7e6c32ba5353c4069e3e4e10225bae42ed",
+    "modified": null
+  },
+  {
+    "path": "splits/fold_example_negative3.txt",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "dfc64e1cab89f187cfc258b3ba7de62fa064e49716378a7fa8c13781ec985a3d",
+    "modified": null
+  },
+  {
+    "path": "splits/fold_example_positive3.txt",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "524dd6e98a26deab86f92c42e00dd4d8d53d6015ec81a65e1425329c88980ce9",
+    "modified": null
+  },
+  {
+    "path": "test.py",
+    "source_path": "test2.py",
+    "source_sha256": "7e957bf68a25bc37b620a3ae46c3b4f44218ad1b28c385c1166ec117d1792560",
+    "release_sha256": "49de40a34705490261d65310292374df1396864f96fbe89da63783a7cdc56a49",
+    "modified": true
+  },
+  {
+    "path": "tests/test_configuration.py",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "02e341388ce5dd4dc1cfd36b10071b8843772da531dbccaa7d3bd1158b1ec927",
+    "modified": null
+  },
+  {
+    "path": "train.py",
+    "source_path": "train_multi-modal_multi-task_pro.py",
+    "source_sha256": "5954b88e76bb85a09fa1e0d56c97ac4457f2c7c10b4918e456eca84a0904fbf5",
+    "release_sha256": "70a8fb5bcf3a1715cd0d40b4105e77c2b1afbca412d5ba395c0252e884573f16",
+    "modified": true
+  },
+  {
+    "path": "training.py",
+    "source_path": "train_multi-modal_multi-task_pro.py",
+    "source_sha256": "5954b88e76bb85a09fa1e0d56c97ac4457f2c7c10b4918e456eca84a0904fbf5",
+    "release_sha256": "4a1b9a6c6122371200ec042628d9f2961f3e0f2654b8e0a948b47d71145a0333",
+    "modified": true
+  },
+  {
+    "path": "utils/__init__.py",
+    "source_path": "utils/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "release_sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "modified": true
+  },
+  {
+    "path": "utils/cli.py",
+    "source_path": null,
+    "source_sha256": null,
+    "release_sha256": "f031c9d71883759e93a8712c38b1a8098a69d622a28ea312d703856ab2c9cb81",
+    "modified": null
+  },
+  {
+    "path": "utils/data_preparation.py",
+    "source_path": "utils/data_preparation.py",
+    "source_sha256": "8183b76d798c77e2f5754a8c2cd69655f572b611f1881e407dbcf203720edb45",
+    "release_sha256": "1b648d5fc235df5a139b46e9f35a14a2e9987e066ece78ced36810c9b54fe1ac",
+    "modified": true
+  },
+  {
+    "path": "validation.py",
+    "source_path": "validation.py",
+    "source_sha256": "4fea5f0a2767b9b2ff0ba3e0b05b570478894be6e94e9c34be656d1bbbf9c616",
+    "release_sha256": "1471cc7a384d6258a9631a4e8765517897ca821171ecd07efd1f1be3aeabcc9a",
+    "modified": true
+  }
+]

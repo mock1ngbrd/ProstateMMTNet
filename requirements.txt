@@ -1,0 +1,8 @@
+# Version pins will be added after confirming the paper's training environment.
+torch
+torchvision
+tensorboard
+numpy
+scipy
+scikit-learn
+tqdm
